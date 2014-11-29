@@ -1,7 +1,7 @@
 Sorry for my poor English. If you can help with improving the English in this
 documentation, please contact me
 
-## MyMySQL v1.4 (2013-03-04)
+## MyMySQL v1.4 (2013-03-04).
 
 This package contains MySQL client API written entirely in Go. It works with
 the MySQL protocol version 4.1 or greater. It definitely works well with MySQL
