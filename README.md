@@ -1,5 +1,5 @@
 Sorry for my poor English. If you can help with improving the English in this
-documentation, please contact me.
+documentation, please contact me
 
 ## MyMySQL v1.4 (2013-03-04)
 
